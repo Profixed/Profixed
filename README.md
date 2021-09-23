@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript and MySQL
 - 🌱 Actualmente estoy aprendiendo Javascript y MySQL
 
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me in Facebook and LinkedIn
 
 <!---
